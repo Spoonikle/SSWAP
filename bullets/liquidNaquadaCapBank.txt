@@ -28,3 +28,4 @@ HitSound staffHit
 //Whether or not the bullet can travel through an entity having hit it
 Penetrates False
 SmokeTrail False
+PotionEffect 20 6  4
