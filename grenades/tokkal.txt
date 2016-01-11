@@ -1,7 +1,6 @@
-////Name and icon
 Name Tok'Kal
 ShortName tokkal
-Icon M67
+Icon icon_tokkal
 //Colour in Red, Green, Blue, each going up to 255
 Colour 255 255 255
 ////Item and recipe
@@ -38,7 +37,7 @@ Sticky false
 ////Detonation conditions
 VehicleProximityTrigger -1.0
 LivingProximityTrigger -1.0
-Fuse 60
+Fuse 70
 DetonateWhenShot true
 Remote false
 //DespawnTime 0

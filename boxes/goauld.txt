@@ -14,7 +14,7 @@ GNG
 //And with parts from this mod, they are the shortName of the item
 //Guns cannot yet have multiple ammo types in the same slot. For now, just list them under two seperate guns that are the same
 //NumGuns must come before all the addGun lines and must be correct.
-NumGuns 4
+NumGuns 6
 AddGun maTokStaff 6 naquadahAlloyPlate 1 blockGold 1 blockDiamond
 AddAmmo liquidNaquadah 1 moltenNaquadah 1 diamond
 AddGun zatGun 4 naquadahAlloyPlate 1 blockDiamond 12 spiderEye
@@ -23,3 +23,6 @@ AddGun wraithStunner 16 blockLapis 1 blockDiamond 12 spiderEye
 AddAmmo wraithPlasmid 32 porkchopRaw 1 diamond 1 blockRedstone
 AddGun kullWristWeapon 16 naquadahAlloyPlate 1 blockGold 1 blockDiamond
 AddAmmo liquidNaquadahCapBank 3 liquidNaquadah 1 blockGold 1 blockCoal
+AddGun ribbonDevice 6 naquadahAlloyPlate 1 blockGold
+AddAmmo ribbonDeviceGem 1 liquidNaquadah 1 blockRedstone
+AddGun tokkal 2 naquadahAlloyPlate 1 ribbonDeviceGem 1

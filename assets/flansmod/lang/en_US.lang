@@ -1,6 +1,6 @@
-item.OrakKnife.name=Orak Knife
 item.kullWristWeapon.name=Kull Wrist Weapon
 item.maTokStaff.name=Ma'Tok Staff
+item.OrakKnife.name=Orak Knife
 item.oriStaff.name=Ori Staff Weapon
 item.ribbonDevice.name=Kara kesh
 item.wraithStunner.name=Wraith Stun Pistol
@@ -14,6 +14,7 @@ item.oriGem.name=Crystalized Naquadah
 item.ribbonDeviceGem.name=Ribbon Device Gem
 item.wraithPlasmid.name=Wraith Plasmid
 item.zatPowerCell.name=Zat'nik'tel Power Cell
+item.tokkal.name=Tok'Kal
 item.goauldGoldBody.name=Goa'uld Gold Chest
 item.goauldGoldBoots.name=Goa'uld Gold Boots
 item.goauldGoldCap.name=Goa'uld Gold Cap
