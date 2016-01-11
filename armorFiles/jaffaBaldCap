@@ -1,0 +1,10 @@
+Name Jaffa Bald Cap
+ShortName jaffaBaldCap
+Icon serpentGuardCapIcon
+Colour 255 255 255
+Type Helmet
+Model swp.JaffaBaldCap
+Defence 0.1
+ArmourTexture serpentGuard
+KnockbackModifier 0.25
+ModelScale 0.9

@@ -1,0 +1,9 @@
+Name Goa'uld Gold Boots
+ShortName goauldGoldBoots
+Icon goauldGoldBootsIcon
+Colour 255 255 255
+Type Boots
+Defence 0.1
+ArmourTexture goauldGoldArmor
+KnockbackModifier 0.25
+NegateFallDamage True

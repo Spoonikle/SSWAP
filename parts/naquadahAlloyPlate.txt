@@ -1,0 +1,13 @@
+Name Naquadah Alloy Plate
+ShortName naquadahAlloyPlate
+Icon naquadahAlloyPlate
+//Colour in Red, Green, Blue, each going up to 255.
+Colour 255 255 255
+//Categories are Cockpit, Wing, Engine, Propeller, Bay, Tail, Wheel, Chassis, Turret, Fuel, Misc
+Category Misc
+StackSize 1
+RecipeOutput 1
+// SGcraft Dependent
+ShapelessRecipe gcewing_sg:naquadahIngot gcewing_sg:naquadahIngot
+//Vanilla friendly
+//ShapelessRecipe slimeball ingotIron

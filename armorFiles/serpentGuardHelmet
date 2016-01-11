@@ -1,0 +1,12 @@
+Name Serpent Guard Helmet
+ShortName serpentGuardHelmet
+Icon serpentGuardHelmetIcon
+Colour 255 255 255
+Type Helmet
+Model swp.SerpentGuardHelmet
+Defence 0.1
+ArmourTexture serpentGuardHelmet
+KnockbackModifier 0.25
+SmokeProtection True
+NightVision True
+ModelScale 0.3

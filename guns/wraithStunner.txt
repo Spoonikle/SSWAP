@@ -1,0 +1,67 @@
+﻿//---Standard Gun Config for Flans Mod------------
+//Created by Minecraft-SMP Toolbox 2.1.4.2
+
+
+//---Standard-------------------------------------
+// Naming
+Name Wraith Stun Pistol
+ShortName wraithStunner
+
+
+// Visuals
+Model swp.WraithStunner
+ModelScale 1
+Icon Icon_Gun_WraithStunner
+Texture skin_Gun_WraithStunner
+
+//---Gun------------------------------------------
+//Gun Type
+Deployable False
+
+//Damage
+Damage 6
+
+
+//Ammo
+Ammo wraithPlasmid
+NumBullets 1
+BulletSpeed 4.0
+
+
+//Attachments
+AllowAllAttachments False
+AllowBarrelAttachments False
+AllowScopeAttachments False
+AllowStockAttachments False
+AllowGripAttachments False
+
+
+//Weapon Settings
+Accuracy 10
+Spread 1
+Mode SEMIAUTO
+OneHanded True
+Recoil 1
+ReloadTime 30
+ShootDelay 10
+
+
+//Shield
+
+
+//Zoom
+Scope None
+ZoomLevel 1.0
+FOVZoomLevel 1.0
+
+
+//Melee
+
+
+//Deployable Settings
+
+
+//Sound
+ShootSound stunnerShoot
+
+//------------------------------------------------

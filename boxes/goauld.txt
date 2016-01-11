@@ -1,0 +1,25 @@
+Name Goa'uld Weapons assembler
+ShortName goauld
+TopTexture goauldBoxTop
+SideTexture goauldBoxSide
+BottomTexture goauldBoxSide
+GunBoxID 3071
+Recipe G blockGold E emerald N naquadahAlloyPlate
+GNG
+GEG
+GNG
+//AddGun shortName amountOf item
+//AddAmmo must come immediately after AddGun for them to be in the same slot
+//The names of the items / blocks are those in the code, with some exceptions such as Iron (ingotIron) and gunpowder (sulphur)
+//And with parts from this mod, they are the shortName of the item
+//Guns cannot yet have multiple ammo types in the same slot. For now, just list them under two seperate guns that are the same
+//NumGuns must come before all the addGun lines and must be correct.
+NumGuns 4
+AddGun maTokStaff 6 naquadahAlloyPlate 1 blockGold 1 blockDiamond
+AddAmmo liquidNaquadah 1 moltenNaquadah 1 diamond
+AddGun zatGun 4 naquadahAlloyPlate 1 blockDiamond 12 spiderEye
+AddAmmo zatPowerCell 1 liquidNaquadah 1 diamond 1 blockRedstone
+AddGun wraithStunner 16 blockLapis 1 blockDiamond 12 spiderEye
+AddAmmo wraithPlasmid 32 porkchopRaw 1 diamond 1 blockRedstone
+AddGun kullWristWeapon 16 naquadahAlloyPlate 1 blockGold 1 blockDiamond
+AddAmmo liquidNaquadahCapBank 3 liquidNaquadah 1 blockGold 1 blockCoal

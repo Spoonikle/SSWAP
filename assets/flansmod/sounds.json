@@ -1,0 +1,51 @@
+{
+	"oriStaff": {
+		"category" : "player",
+		"sounds" : [ "flansmod:oriStaff" ]
+	},
+
+	"ribbon": {
+		"category" : "player",
+		"sounds" : [ "flansmod:ribbon" ]
+	},
+
+	"staffCharge": {
+		"category" : "player",
+		"sounds" : [ "flansmod:staffCharge" ]
+	},
+
+	"staffHit": {
+		"category" : "player",
+		"sounds" : [ "flansmod:staffHit" ]
+	},
+
+	"staffShoot": {
+		"category" : "player",
+		"sounds" : [ "flansmod:staffShoot" ]
+	},
+
+	"stunnerShoot": {
+		"category" : "player",
+		"sounds" : [ "flansmod:stunnerShoot" ]
+	},
+
+	"tokkal_explode": {
+		"category" : "player",
+		"sounds" : [ "flansmod:tokkal_explode" ]
+	},
+
+	"zatEngage": {
+		"category" : "player",
+		"sounds" : [ "flansmod:zatEngage" ]
+	},
+
+	"zatHit": {
+		"category" : "player",
+		"sounds" : [ "flansmod:zatHit" ]
+	},
+
+	"zatShoot": {
+		"category" : "player",
+		"sounds" : [ "flansmod:zatShoot" ]
+	}
+}

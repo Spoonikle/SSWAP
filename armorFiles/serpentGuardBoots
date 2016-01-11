@@ -1,0 +1,9 @@
+Name Serpent Guard Boots
+ShortName serpentGuardBoots
+Icon serpentGuardBootsIcon
+Colour 255 255 255
+Type Boots
+Defence 0.1
+ArmourTexture serpentGuard
+KnockbackModifier 0.25
+NegateFallDamage True

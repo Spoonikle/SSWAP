@@ -1,0 +1,14 @@
+Name Naquadah Charge
+ShortName naquadahCharge
+Icon naquadahCharge
+//Colour in Red, Green, Blue, each going up to 255.
+Colour 255 255 255
+//Categories are Cockpit, Wing, Engine, Propeller, Bay, Tail, Wheel, Chassis, Turret, Fuel, Misc
+Category Misc
+StackSize 1
+RecipeOutput 1
+Recipe N gcewing_sg:naquadahIngot G glass I ingotIron
+//Recipe N emerald G glass I ingotIron
+IGI
+GNG
+IGI

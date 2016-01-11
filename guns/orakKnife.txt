@@ -1,0 +1,73 @@
+//---Standard Gun Config for Flans Mod------------
+//Created by Minecraft-SMP Toolbox 2.1.4.2
+
+
+//---Standard-------------------------------------
+// Naming
+Name Orak Knife
+ShortName OrakKnife
+Icon orakKnife
+
+
+//---Gun------------------------------------------
+//Gun Type
+Deployable False
+
+//Visual
+Model swp.OrakKnife
+Texture Skin_OrakKnife
+ModelScale 1.0
+
+//Attachments
+AllowAllAttachments False
+AllowBarrelAttachments False
+AllowScopeAttachments False
+AllowStockAttachments False
+AllowGripAttachments False
+
+
+//Weapon Settings
+ReloadTime 0
+Recoil 0
+NumBullets 0
+Damage 0
+Accuracy 0
+ShootDelay 0
+Mode SemiAuto
+Scope None
+FOVZoomLevel 1.0
+Deployable False
+DeployedModel None
+MeleeDamage 14
+
+//Modifiers
+MoveSpeedModifier 1.1
+KnockbackModifier 0.8
+
+//Custom melee animation and hits
+UseCustomMelee True
+
+//The time it takes to perform a melee attack in ticks
+MeleeTime 10
+
+//The point on the gun that does the damage
+MeleeDamagePoint 0 24 0
+MeleeDamagePoint 0 12 0
+
+//Define the path along which the weapon point moves in model co-ordinates from the gun's origin
+AddNode 0 1 0 3 0 0
+AddNode -1 2 1 6 0 0
+AddNode -2 4 2 20 0 0
+AddNode -2 6 2 60 0 -10
+AddNode 0 6 2 90 0 -50
+AddNode 6 5 0 100 20 -60
+AddNode 6 1 -24 100 100 -70
+AddNode 0 0 -30 100 120 -80
+AddNode 0 0 -30 100 120 -80
+AddNode 4 -1 -26 100 100 -60
+AddNode 9 -2 -12 20 60 -20
+AddNode 4 0 2 0 0 0
+AddNode 0 0 0 0 0 0
+
+
+//------------------------------------------------

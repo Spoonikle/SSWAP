@@ -1,0 +1,69 @@
+//---Standard Gun Config for Flans Mod------------
+//Created by Minecraft-SMP Toolbox 2.1.4.2
+
+
+//---Standard-------------------------------------
+// Naming
+Name Ori Staff Weapon
+ShortName oriStaff
+
+//---Gun------------------------------------------
+//Gun Type
+Deployable False
+
+//Visual
+Model swp.OriStaffWeapon
+ModelScale 1
+Texture skin_Gun_OriStaffWeapon
+Icon icon_Gun_OriStaffWeapon
+
+//Damage
+Damage 11
+MeleeDamage 7
+
+
+//Ammo
+Ammo oriGem
+NumBullets 1
+BulletSpeed 6
+
+
+//Attachments
+AllowAllAttachments False
+AllowBarrelAttachments False
+AllowScopeAttachments False
+AllowStockAttachments False
+AllowGripAttachments False
+
+
+//Weapon Settings
+CanForceReload True
+CanShootUnderwater True
+Accuracy 10
+Spread 1
+Knockback 1
+Mode SEMIAUTO
+OneHanded False
+Recoil 1
+ReloadTime 22
+SecondaryFunction MELEE
+ShootDelay 15
+UsableByPlayers True
+
+
+//Shield
+
+
+//Zoom
+
+
+//Melee
+
+
+//Deployable Settings
+
+
+//Sound
+ShootSound oriStaff
+
+//------------------------------------------------

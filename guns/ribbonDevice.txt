@@ -1,0 +1,58 @@
+//---Standard Gun Config for Flans Mod------------
+//Created by Minecraft-SMP Toolbox 2.1.4.2
+
+
+//---Standard-------------------------------------
+// Naming
+Name Kara kesh
+ShortName ribbonDevice
+
+
+//---Gun------------------------------------------
+//Gun Type
+Deployable False
+
+//Visual
+Model swp.RibbonDevice
+ModelScale 0.65
+Icon icon_Gun_RibbonDevice
+Texture skin_Gun_RibbonDevice
+
+
+//Ammo
+Ammo ribbonDeviceGem
+NumBullets 30
+BulletSpeed 6
+
+
+//Attachments
+AllowAllAttachments False
+AllowBarrelAttachments False
+AllowScopeAttachments False
+AllowStockAttachments False
+AllowGripAttachments False
+
+
+//Weapon Settings
+Damage 1
+Accuracy 1
+Spread 70
+Knockback 600
+ShootDelay 40
+Recoil 10
+ReloadTime 10
+Mode SEMIAUTO
+OneHanded False
+UsableByPlayers True
+CanForceReload True
+CanShootUnderwater True
+
+//Format is Shield <Defense> <xOrigin> <yOrigin> <zOrigin> <width> <height> <depth> (all in model coordinates)
+Shield 5.0 8.0 -20.0 -8.0 1.0 50.0 32.0
+shield 5.0 8.0 -20.0 -8.0 1.0 50.0 32.0
+
+//Sound
+ShootSound ribbon
+ReloadSound staffCharge
+
+//------------------------------------------------

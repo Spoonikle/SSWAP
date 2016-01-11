@@ -1,0 +1,8 @@
+Name Goa'uld Gold Pants
+ShortName goauldGoldPants
+Icon goauldGoldPantsIcon
+Colour 255 255 255
+Type Legs
+Defence 0.2
+ArmourTexture goauldGoldArmor
+KnockbackModifier 0.25

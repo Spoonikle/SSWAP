@@ -1,0 +1,70 @@
+﻿//---Standard Gun Config for Flans Mod------------
+//Created by Minecraft-SMP Toolbox 2.1.4.2
+
+
+//---Standard-------------------------------------
+// Naming
+Name Ma'Tok Staff
+ShortName maTokStaff
+
+//---Gun------------------------------------------
+//Gun Type
+Deployable False
+
+//Visual
+Model swp.MaTokStaff
+ModelScale 1
+Texture skinGunMaTokStaff
+Icon Icon_Gun_MaTokStaff
+
+//Damage
+Damage 11
+MeleeDamage 6
+
+
+//Ammo
+Ammo liquidNaquadah
+NumBullets 1
+BulletSpeed 4
+
+
+//Attachments
+AllowAllAttachments False
+AllowBarrelAttachments False
+AllowScopeAttachments False
+AllowStockAttachments False
+AllowGripAttachments False
+
+
+//Weapon Settings
+CanForceReload True
+CanShootUnderwater True
+Accuracy 10
+Spread 1
+Knockback 1
+Mode SEMIAUTO
+OneHanded False
+Recoil 1
+ReloadTime 22
+SecondaryFunction MELEE
+ShootDelay 15
+UsableByPlayers True
+
+
+//Shield
+
+
+//Zoom
+
+
+//Melee
+
+
+//Deployable Settings
+
+
+//Sound
+ShootSound staffShoot
+ReloadSound staffCharge
+
+//------------------------------------------------

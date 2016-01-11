@@ -1,0 +1,10 @@
+Name Goa'uld Gold Chest
+ShortName goauldGoldBody
+Icon goauldGoldBodyIcon
+Colour 255 255 255
+Type Chest
+Model swp.SerpentGuardBody
+Defence 0.3
+ArmourTexture goauldGoldBodyArmor
+KnockbackModifier 0.25
+ModelScale 1.05

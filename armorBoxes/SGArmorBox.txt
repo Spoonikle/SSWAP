@@ -1,0 +1,49 @@
+﻿//---Standard Armor Box Config for Flans Mod------
+//Created by Minecraft-SMP Toolbox 2.1.4.2
+
+
+//---Standard-------------------------------------
+// Naming
+Name Stargate Armor Box
+ShortName sgArmor
+
+
+// Visuals
+
+
+// Recipe
+Recipe G blockIron N naquadahAlloyPlate
+GNG
+GNG
+GNG
+
+
+//Misc
+
+//------------------------------------------------
+
+//---Armor Box------------------------------------
+//Visuals
+TopTexture ModernArmourBoxTop
+BottomTexture ModernArmourBoxTop
+SideTexture ModernArmourBoxSide
+
+
+//Adding Stuff
+Addarmour serpentGuard Serpent Guard
+serpentGuardHelmet ingotIron 2 naquadahAlloyPlate 2
+serpentGuardBody ingotIron 4 naquadahAlloyPlate 3
+serpentGuardPants ingotIron 3 naquadahAlloyPlate 2
+serpentGuardBoots ingotIron 2 naquadahAlloyPlate 1
+Addarmour goauldGoldArmor Goa'uld Gold Armor
+goauldGoldCap ingotIron 2 blockGold 1 naquadahAlloyPlate 2
+goauldGoldBody ingotIron 4 blockGold 1 naquadahAlloyPlate 3
+goauldGoldPants ingotIron 3 blockGold 1 naquadahAlloyPlate 2
+goauldGoldBoots ingotIron 2 blockGold 1 naquadahAlloyPlate 1
+Addarmour jaffaHelmets Jaffa Soldier
+jaffaBaldCap ingotIron 2 naquadahAlloyPlate 2
+serpentGuardBody ingotIron 4 naquadahAlloyPlate 3
+serpentGuardPants ingotIron 3 naquadahAlloyPlate 2
+serpentGuardBoots ingotIron 2 naquadahAlloyPlate 1
+
+//------------------------------------------------

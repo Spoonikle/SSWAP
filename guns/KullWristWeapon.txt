@@ -1,0 +1,75 @@
+﻿//---Standard Gun Config for Flans Mod------------
+//Created by Minecraft-SMP Toolbox 2.1.4.2
+
+
+//---Standard-------------------------------------
+// Naming
+Name Kull Wrist Weapon
+ShortName kullWristWeapon
+
+
+// Visuals
+Model swp.kullWristWeapon
+ModelScale 1
+Icon Icon_Gun_KullWristWeapon
+
+//---Gun------------------------------------------
+//Gun Type
+Deployable False
+
+//Visual
+Model swp.kullWristWeapon
+ModelScale 1
+Texture skin_Gun_kullWristWeapon
+
+//Damage
+Damage 7
+MeleeDamage 7
+
+
+//Ammo
+Ammo liquidNaquadahCapBank
+NumBullets 1
+BulletSpeed 4
+
+
+//Attachments
+AllowAllAttachments False
+AllowBarrelAttachments False
+AllowScopeAttachments False
+AllowStockAttachments False
+AllowGripAttachments False
+
+
+//Weapon Settings
+CanForceReload True
+CanShootUnderwater True
+Accuracy 10
+Spread 10
+Knockback 1
+Mode FullAuto
+OneHanded True
+Recoil 0
+ReloadTime 22
+SecondaryFunction none
+ShootDelay 4
+UsableByPlayers True
+
+
+//Shield
+
+
+//Zoom
+
+
+//Melee
+
+
+//Deployable Settings
+
+
+//Sound
+ShootSound staffShoot
+ReloadSound staffCharge
+
+//------------------------------------------------

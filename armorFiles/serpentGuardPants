@@ -1,0 +1,8 @@
+Name Serpent Guard Legs
+ShortName serpentGuardPants
+Icon serpentGuardPantsIcon
+Colour 255 255 255
+Type Legs
+Defence 0.2
+ArmourTexture serpentGuard
+KnockbackModifier 0.25
