@@ -31,4 +31,5 @@ SmokeTrail False
 //          11:Resistance   12:FireResistance   13:WaterBreathing   14:Invisibility     15:Blindness    16:NightVision  17:Hunger   18:Weakness     19:Poison       20:Wither
 
 PotionEffect 2 40 8
+PotionEffect 2 80 4
 PotionEffect 18 120 8

@@ -23,7 +23,7 @@ ModelScale 1
 Texture skinZatGun
 
 //Damage
-Damage 6
+Damage 14
 
 
 //Ammo
