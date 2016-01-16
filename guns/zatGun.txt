@@ -29,7 +29,7 @@ Damage 14
 //Ammo
 Ammo zatPowerCell
 NumBullets 1
-BulletSpeed 5.0
+BulletSpeed 7.0
 
 
 //Attachments

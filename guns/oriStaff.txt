@@ -18,14 +18,14 @@ Texture skin_Gun_OriStaffWeapon
 Icon icon_Gun_OriStaffWeapon
 
 //Damage
-Damage 11
+Damage 18
 MeleeDamage 7
 
 
 //Ammo
 Ammo oriGem
 NumBullets 1
-BulletSpeed 6
+BulletSpeed 7
 
 
 //Attachments

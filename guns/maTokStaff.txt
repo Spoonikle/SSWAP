@@ -18,14 +18,14 @@ Texture skinGunMaTokStaff
 Icon Icon_Gun_MaTokStaff
 
 //Damage
-Damage 11
+Damage 18
 MeleeDamage 6
 
 
 //Ammo
 Ammo liquidNaquadah
 NumBullets 1
-BulletSpeed 4
+BulletSpeed 6
 
 
 //Attachments

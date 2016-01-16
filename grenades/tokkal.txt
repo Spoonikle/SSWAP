@@ -38,7 +38,7 @@ Sticky false
 VehicleProximityTrigger -1.0
 LivingProximityTrigger -1.0
 Fuse 70
-DetonateWhenShot true
+DetonateWhenShot false
 Remote false
 //DespawnTime 0
 PrimeDelay 0
