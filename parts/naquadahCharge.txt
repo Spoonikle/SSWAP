@@ -7,8 +7,7 @@ Colour 255 255 255
 Category Misc
 StackSize 1
 RecipeOutput 1
-Recipe N gcewing_sg:naquadah G glass I ingotIron
-//Recipe N slimeball G glass I ingotIron
+Recipe N slimeball G glass I ingotIron
 IGI
 GNG
 IGI

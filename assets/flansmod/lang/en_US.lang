@@ -1,3 +1,4 @@
+item.f302.name=F-302
 item.kullWristWeapon.name=Kull Wrist Weapon
 item.maTokStaff.name=Ma'Tok Staff
 item.OrakKnife.name=Orak Knife
@@ -8,6 +9,8 @@ item.zatGun.name=Zat'nik'tel
 item.moltenNaquadah.name=Molten Naquadah
 item.naquadahAlloyPlate.name=Naquadah Alloy Plate
 item.naquadahCharge.name=Naquadah Charge
+item.solidRocketFuel.name=Solid Rocket Propellent
+item.aim9Rocket.name=Aim 9 Sidewinder
 item.liquidNaquadahCapBank.name=Liquid Naquadah Capacitor
 item.liquidNaquadah.name=Liquid Naquadah
 item.oriGem.name=Crystalized Naquadah

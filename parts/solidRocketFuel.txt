@@ -1,0 +1,13 @@
+Name Solid Rocket Propellent
+ShortName solidRocketFuel
+Icon solidRocketFuel
+//Colour in Red, Green, Blue, each going up to 255.
+Colour 255 255 255
+//Categories are Cockpit, Wing, Engine, Propeller, Bay, Tail, Wheel, Chassis, Turret, Misc
+Category Misc
+StackSize 64
+RecipeOutput 1
+Recipe G gunpowder R redstone S slimeball
+SRS
+GGG
+SRS

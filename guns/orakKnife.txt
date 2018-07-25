@@ -69,9 +69,9 @@ AddNode 9 -2 -12 20 60 -20
 AddNode 4 0 2 0 0 0
 AddNode 0 0 0 0 0 0
 
-Recipe I ingotIron N gcewing_sg:naquadah
-N N
-N N
- I 
+Recipe L leather I ingotIron
+I I
+I I
+LIL
 
 //------------------------------------------------

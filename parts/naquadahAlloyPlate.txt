@@ -7,7 +7,7 @@ Colour 255 255 255
 Category Misc
 StackSize 1
 RecipeOutput 1
-//SGcraft Dependent
-ShapelessRecipe gcewing_sg:naquadah slimeball ingotIron
-//Vanilla friendly
-//ShapelessRecipe slimeball ingotIron
+Recipe N slimeball I ingotIron
+III
+NNN
+III
